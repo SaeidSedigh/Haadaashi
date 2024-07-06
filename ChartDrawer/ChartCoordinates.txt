@@ -1,0 +1,320 @@
+1st bhava 
+ASC point : x:520 y:320
+
+#6 planets 
+col_y: 383px
+col_left_x: 395px
+col_right_x: 560px
+#END 6 planets
+
+# 3 planets:
+row_top_y: 383px
+row_top_x: 478px
+row_bott_y: 450px
+col1_bott_x: 331px
+col2_bott_x: 624px
+#END 3 planets
+
+# 2 planets:
+row_bott_y: 450px
+col1_x: 331px
+col2_x: 624px
+#END 2 planets
+
+# 1 planet:
+col_x: 478px
+col_y: 383px
+#END 1 planet
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+2nd bhava
+#6 planets 
+col_y: 281px
+col_left_x: 150px
+col_right_x: 280px
+#END 6 planets
+
+# 3 planets:
+row_bottom_y: 353px
+row_bottom_x: 209px
+
+col_y: 293px
+col_1_x: 124px
+col_2_x: 299px
+#END 3 planets
+
+# 2 planets:
+row_1_y: 293px
+row_2_y: 355px
+col_x: 203px
+#END 2 planets
+
+# 1 planet:
+row_y: 325px
+col_x: 203px
+#END 1 planet
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+3nd bhava
+#6 planets 
+col_y: 378px
+col_x: 10px
+#END 6 planets
+
+# 3 planets:
+col_y: 423px
+col_x: 10px
+#END 3 planets
+
+# 2 planets:
+col_x: 10px
+row_1_y: 423px
+row_2_y: 493px
+#END 2 planets
+
+# 1 planets:
+col_x: 10px
+row_1_y: 458px
+#END 1 planets
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+4th bhava
+#6 planets 
+col_y: 571px
+col_x: 207px
+#END 6 planets
+
+# 3 planets:
+col_y: 625px
+col_x: 207px
+#END 3 planets
+
+# 2 planets:
+col_x: 207px
+row_1_y: 625px
+row_2_y: 695px
+#END 2 planets
+
+# 1 planets:
+col_x: 207px
+row_1_y: 659px
+#END 1 planets
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+5th bhava
+#6 planets 
+col_y: 790px
+col_x: 10px
+#END 6 planets
+
+# 3 planets:
+col_y: 827px
+col_x: 10px
+#END 3 planets
+
+# 2 planets:
+col_x: 10px
+row_1_y: 827px
+row_2_y: 897px
+#END 2 planets
+
+# 1 planets:
+col_x: 10px
+row_1_y: 861px
+#END 1 planets
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+6th bhava
+#6 planets 
+col_y: 975px
+col_left_x: 136px
+col_right_x: 280px
+#END 6 planets
+
+# 3 planets:
+row_top_y: 960px
+row_top_x: 208px
+
+col_bottom_y: 1010px
+col_bottom_1_x: 124px
+col_bottom_2_x: 299px
+#END 3 planets
+
+# 2 planets:
+row_1_y: 960px
+row_2_y: 1022px
+col_x: 203px
+#END 2 planets
+
+# 1 planet:
+row_y: 994px
+col_x: 203px
+#END 1 planet
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+7th bhava 
+
+#6 planets 
+col_y: 881px
+col_left_x: 395px
+col_right_x: 560px
+#END 6 planets
+
+# 3 planets:
+row_top_y: 881px
+col1_top_x: 331px
+col2_top_x: 624px
+row_bott_y: 948px
+row_bott_x: 478px
+#END 3 planets
+
+# 2 planets:
+row_bott_y: 881px
+col1_x: 331px
+col2_x: 624px
+#END 2 planets
+
+# 1 planet:
+col_x: 478px
+col_y: 881px
+#END 1 planet
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+8th bhava
+#6 planets 
+col_y: 975px
+col_left_x: 819px
+col_right_x: 675px
+#END 6 planets
+
+# 3 planets:
+row_top_y: 960px
+row_top_x: 747px
+
+col_bottom_y: 1010px
+col_bottom_1_x: 831px
+col_bottom_2_x: 656px
+#END 3 planets
+
+# 2 planets:
+row_1_y: 960px
+row_2_y: 1022px
+col_x: 752px
+#END 2 planets
+
+# 1 planet:
+row_y: 994px
+col_x: 752px
+#END 1 planet
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+9th bhava
+
+#6 planets 
+col_y: 790px
+col_x: 945px
+#END 6 planets
+
+# 3 planets:
+col_y: 827px
+col_x: 945px
+#END 3 planets
+
+# 2 planets:
+col_x: 945px
+row_1_y: 827px
+row_2_y: 897px
+#END 2 planets
+
+# 1 planets:
+col_x: 945px
+row_1_y: 861px
+#END 1 planets
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+10th bhava
+#6 planets 
+col_y: 571px
+col_x: 748px
+#END 6 planets
+
+# 3 planets:
+col_y: 625px
+col_x: 748px
+#END 3 planets
+
+# 2 planets:
+col_x: 748px
+row_1_y: 625px
+row_2_y: 695px
+#END 2 planets
+
+# 1 planets:
+col_x: 748px
+row_1_y: 659px
+#END 1 planets
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+11th bhava
+#6 planets 
+col_y: 378px
+col_x: 945px
+#END 6 planets
+
+# 3 planets:
+col_y: 423px
+col_x: 945px
+#END 3 planets
+
+# 2 planets:
+col_x: 945px
+row_1_y: 423px
+row_2_y: 493px
+#END 2 planets
+
+# 1 planets:
+col_x: 945px
+row_1_y: 458px
+#END 1 planets
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+12th bhava
+#6 planets 
+col_y: 281px
+col_left_x: 675px
+col_right_x: 805px
+#END 6 planets
+
+# 3 planets:
+row_bottom_y: 353px
+row_bottom_x: 746px
+
+col_y: 293px
+col_1_x: 825px
+col_2_x: 656px
+#END 3 planets
+
+# 2 planets:
+row_1_y: 293px
+row_2_y: 355px
+col_x: 752px
+#END 2 planets
+
+# 1 planet:
+row_y: 325px
+col_x: 752px
+#END 1 planet
